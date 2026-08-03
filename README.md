@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header GIF / Dynamic Typist -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B+I'm+Aryan;CSE+(AI%2FML)+Student;Passionate+Developer;Building+The+Future+with+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B+I'm+Dishant+Thakur;CSE+(AI%2FML)+Student;Passionate+for+Developer;Building+The+Future+with+AI" alt="Typing SVG" />
 
 <br/>
 
